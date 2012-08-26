@@ -1,0 +1,7 @@
+.history
+.idea
+.idea_modules
+project/target
+project/project/target
+project/boot
+target
